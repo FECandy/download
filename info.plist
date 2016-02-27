@@ -11,7 +11,11 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
+<<<<<<< HEAD
 					<string>https://raw.githubusercontent.com/FECandy/download/master/qq.ipa</string>
+=======
+					<string>https://mall.com-cn.com.cn/alist/qq.ipa</string>
+>>>>>>> f44533eb94aeeae3fc3b5db65d8c792bec0a129b
 				</dict>
 				<dict>
 					<key>kind</key>
